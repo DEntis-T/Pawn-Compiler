@@ -21,6 +21,7 @@ probably have these documents already. Otherwise, you can obtain both these
 documents from the web page devoted to Pawn:
         http://www.compuphase.com/pawn/
 
+## Contents
 Below is a list of topics that this README covers, in this order:
 
 o  Getting started
