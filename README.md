@@ -179,6 +179,16 @@ Microsoft Windows. When unpacking the Pawn source code from a "ZIP" or "TGZ"
 archive, the CMake project file is in the main directory where you unpacked
 the archive into.
 
+## `CMakeLists.txt`
+```c
+#build file for CMake, see http://www.cmake.org/
+
+CMAKE_MINIMUM_REQUIRED(VERSION 2.6)
+PROJECT(pawn)
+
+ADD_SUBDIRECTORY(./compiler)
+ADD_SUBDIRECTORY(./amx)
+```
 Using CMake
 -----------
 1. Under Microsoft Windows, launch CMakeSetup. Under Linux, run cmake-gui (if
