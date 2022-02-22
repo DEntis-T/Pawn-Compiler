@@ -1,4 +1,4 @@
-# [Pawn Compiler](https://github.com/DEntis-T/Pawn-Compiler)
+# [`Pawn Compiler`](https://github.com/DEntis-T/Pawn-Compiler)
 Pawn Compiler 4.0 | Updated and slightly faster version of it.
 
 The Pawn embedded scripting language
