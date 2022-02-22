@@ -1,6 +1,10 @@
 # [`Pawn Compiler`](https://github.com/DEntis-T/Pawn-Compiler)
 Pawn Compiler 4.0 | Updated and slightly faster version of it.
 
+* Get the latest **Pawn** Compiler at releases page.
+* View the examples in the `examples` folder.
+* Read the official `README.txt` below (it has some changes).
+
 The Pawn embedded scripting language
 ====================================
 Pawn is a simple, typeless, 32-bit extension language with a C-like syntax.
